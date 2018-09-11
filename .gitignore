@@ -1,0 +1,8 @@
+*.xml
+!pom.xml
+!testng.xml
+*.iml
+.idea
+.idea/*.xml
+target
+test-output
